@@ -192,10 +192,8 @@ body {
 
 
 #content {
-    top: 100px;
-    left: 100px;
     width: 100%;
-    height: 150px;
+    height: 200px;
     resize: none;
     overflow: auto;
 }
