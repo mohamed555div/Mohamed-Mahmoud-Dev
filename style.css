@@ -14,6 +14,16 @@ body {
     z-index: 1000;
 }
 
+.navbar-toggler-icon {
+    filter: invert(0); 
+}
+
+/* Dark mode hamburger */
+.navbar-dark-mode .navbar-toggler-icon {
+    filter: invert(1); 
+}
+
+
 .dark-mode .navbar {
     box-shadow: 0 4px 6px rgba(0, 97, 194, 0.265);
 
